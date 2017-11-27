@@ -12,8 +12,8 @@ def add_to_markdown_README(paper_table_filepath):
     df.ABS_LINK = df.ABS_LINK.apply(lambda x: '[Abstract]({})'.format(x))
     df.PDF_LINK = df.PDF_LINK.apply(lambda x: '[PDF]({})'.format(x))
     df['Links'] = df.ABS_LINK + ' | ' + df.PDF_LINK
-    df = df.drop(['ABS_LINK', 'PDF_LINK'], axis=1)
-    df.columns = ['Date', 'Title', 'First Author', 'Links']
+    df = df.drop(['ABS_LINK', 'PDF_LINK', 'AUTHOR'], axis=1)
+    df.columns = ['Date', 'Title', 'Links']
     writer = pytablewriter.MarkdownTableWriter()
     writer.stream = io.StringIO()
     writer.header_list = list(df.columns)
