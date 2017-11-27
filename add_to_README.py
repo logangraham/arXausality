@@ -27,7 +27,7 @@ def add_to_markdown_README(paper_table_filepath):
                                current_date.month,
                                current_date.day]))
 
-    final_string = "##{}\n".format(ymd) + markdown
+    final_string = "##{}\n\n".format(ymd) + markdown
 
     with open("README.md", 'r+') as f:
         content = f.read()
