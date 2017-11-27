@@ -27,16 +27,18 @@ def add_to_markdown_README(paper_table_filepath):
                                current_date.month,
                                current_date.day]))
 
-    final_string = "##{}\n\n".format(ymd) + markdown
+    final_string = "## {}\n\n".format(ymd) + markdown
 
     with open("README.md", 'r+') as f:
         content = f.read()
-        f.seek(0, 0)
-        f.write(final_string + '\n\n' + content)
+        if ymd not in content[:20]:
+            f.seek(0, 0)
+            f.write(final_string + '\n\n' + content)
+        else:
+            print "Already put table from this week."
 
 if __name__ == '__main__':
     list_of_files = glob.glob('../weekly_pulls/*') # * means all if need specific format then *.csv
     latest_file = max(list_of_files, key=os.path.getctime)
-    print latest_file
     filepath = '../weekly_pulls/{}'.format(latest_file)
     add_to_markdown_README(filepath)
