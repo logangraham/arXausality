@@ -1,3 +1,12 @@
+## 2017 / 12 / 12
+
+|   Date   |                                                       Title                                                       |                                         Links                                          |
+|----------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|2017-12-10|Causal Inference for Observational Time-Series with Encoder-Decoder   Networks                                     |[Abstract](http://arxiv.org/abs/1712.03553v1) \| [PDF](http://arxiv.org/pdf/1712.03553v1)|
+|2017-12-06|Learning General Latent-Variable Graphical Models with Predictive Belief   Propagation and Hilbert Space Embeddings|[Abstract](http://arxiv.org/abs/1712.02046v1) \| [PDF](http://arxiv.org/pdf/1712.02046v1)|
+
+
+
 ## 2017 / 12 / 4
 
 |   Date   |                                                                             Title                                                                              |                                         Links                                          |

@@ -22,9 +22,10 @@ def fetch_papers(start, max_results=10, only_recent=True):
 
     general_terms = [
                      'causation',
-                     'cause',
+                     'interven'
+                     # 'cause',
                      'causal',
-                     'causes'
+                     # 'causes'
                     ]
     general_abs = list_to_OR_params(general_terms, 'abs', quotations=False)
     general_ti = list_to_OR_params(general_terms, 'ti', quotations=False)
@@ -33,7 +34,10 @@ def fetch_papers(start, max_results=10, only_recent=True):
                       'do calculus',
                       'structural equation',
                       'instrumental variable',
-                      'counterfactual'
+                      'counterfactual',
+                      'structure identif',
+                      'faithfulness',
+                      'conditional independenc'
                      ]
     specific_abs = list_to_OR_params(specific_terms, 'abs', quotations=True)
     specific_ti = list_to_OR_params(specific_terms, 'ti', quotations=True)
