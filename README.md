@@ -1,3 +1,11 @@
+## 2017 / 12 / 19
+
+|   Date   |                                                Title                                                 |                                         Links                                          |
+|----------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|2017-12-12|Transportation analysis of denoising autoencoders: a novel method for   analyzing deep neural networks|[Abstract](http://arxiv.org/abs/1712.04145v1) \| [PDF](http://arxiv.org/pdf/1712.04145v1)|
+
+
+
 ## 2017 / 12 / 12
 
 |   Date   |                                                       Title                                                       |                                         Links                                          |
