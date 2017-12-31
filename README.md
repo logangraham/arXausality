@@ -1,4 +1,4 @@
-## 2017 / 12 / 29
+## 2017 / 12 / 31
 
 |   Date   |                                                                     Title                                                                      |                                         Links                                          |
 |----------|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
@@ -261,3 +261,6 @@
 |2017-01-04|Learning causal effects from many randomized experiments using   regularized instrumental variables                                             |[Abstract](http://arxiv.org/abs/1701.01140v3) \| [PDF](http://arxiv.org/pdf/1701.01140v3)|
 |2017-01-03|Semidefinite tests for latent causal structures                                                                                                 |[Abstract](http://arxiv.org/abs/1701.00652v1) \| [PDF](http://arxiv.org/pdf/1701.00652v1)|
 |2017-01-03|Deep Convolutional Neural Networks for Pairwise Causality                                                                                       |[Abstract](http://arxiv.org/abs/1701.00597v1) \| [PDF](http://arxiv.org/pdf/1701.00597v1)|
+
+
+
