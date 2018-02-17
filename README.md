@@ -1,3 +1,31 @@
+## 2018 / 2 / 17
+
+|   Date   |                                                  Title                                                   |                                         Links                                          |
+|----------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|2018-02-15|DeepMatch: Balancing Deep Covariate Representations for Causal Inference   Using Adversarial Training     |[Abstract](http://arxiv.org/abs/1802.05664v1) \| [PDF](http://arxiv.org/pdf/1802.05664v1)|
+|2018-02-15|Reducing over-clustering via the powered Chinese restaurant process                                       |[Abstract](http://arxiv.org/abs/1802.05392v1) \| [PDF](http://arxiv.org/pdf/1802.05392v1)|
+|2018-02-14|Benchmarking Framework for Performance-Evaluation of Causal Inference   Analysis                          |[Abstract](http://arxiv.org/abs/1802.05046v1) \| [PDF](http://arxiv.org/pdf/1802.05046v1)|
+|2018-02-14|Prophit: Causal inverse classification for multiple continuously valued   treatment policies              |[Abstract](http://arxiv.org/abs/1802.04918v1) \| [PDF](http://arxiv.org/pdf/1802.04918v1)|
+|2018-02-06|Granger-causal Attentive Mixtures of Experts                                                              |[Abstract](http://arxiv.org/abs/1802.02195v1) \| [PDF](http://arxiv.org/pdf/1802.02195v1)|
+|2018-02-06|How to Make Causal Inferences Using Texts                                                                 |[Abstract](http://arxiv.org/abs/1802.02163v1) \| [PDF](http://arxiv.org/pdf/1802.02163v1)|
+|2018-02-02|Interpretable Deep Convolutional Neural Networks via Meta-learning                                        |[Abstract](http://arxiv.org/abs/1802.00560v1) \| [PDF](http://arxiv.org/pdf/1802.00560v1)|
+|2018-02-02|Causal Learning and Explanation of Deep Neural Networks via Autoencoded   Activations                     |[Abstract](http://arxiv.org/abs/1802.00541v1) \| [PDF](http://arxiv.org/pdf/1802.00541v1)|
+|2018-01-31|Nonparametric Quantile-Based Causal Discovery                                                             |[Abstract](http://arxiv.org/abs/1801.10579v1) \| [PDF](http://arxiv.org/pdf/1801.10579v1)|
+|2018-01-25|Discovering Markov Blanket from Multiple interventional Datasets                                          |[Abstract](http://arxiv.org/abs/1801.08295v1) \| [PDF](http://arxiv.org/pdf/1801.08295v1)|
+|2018-01-22|Estimating Heterogeneous Consumer Preferences for Restaurants and Travel   Time Using Mobile Location Data|[Abstract](http://arxiv.org/abs/1801.07826v1) \| [PDF](http://arxiv.org/pdf/1801.07826v1)|
+|2018-01-22|Offline A/B testing for Recommender Systems                                                               |[Abstract](http://arxiv.org/abs/1801.07030v1) \| [PDF](http://arxiv.org/pdf/1801.07030v1)|
+|2018-01-16|The Role of Conditional Independence in the Evolution of Intelligent   Systems                            |[Abstract](http://arxiv.org/abs/1801.05462v1) \| [PDF](http://arxiv.org/pdf/1801.05462v1)|
+|2018-01-16|Reblur2Deblur: Deblurring Videos via Self-Supervised Learning                                             |[Abstract](http://arxiv.org/abs/1801.05117v1) \| [PDF](http://arxiv.org/pdf/1801.05117v1)|
+|2018-01-12|Bayesian Quadrature for Multiple Related Integrals                                                        |[Abstract](http://arxiv.org/abs/1801.04153v2) \| [PDF](http://arxiv.org/pdf/1801.04153v2)|
+|2018-01-11|Theoretical Impediments to Machine Learning With Seven Sparks from the   Causal Revolution                |[Abstract](http://arxiv.org/abs/1801.04016v1) \| [PDF](http://arxiv.org/pdf/1801.04016v1)|
+|2018-01-11|Counterfactual equivalence for POMDPs, and underlying deterministic   environments                        |[Abstract](http://arxiv.org/abs/1801.03737v2) \| [PDF](http://arxiv.org/pdf/1801.03737v2)|
+|2018-01-10|Reasoning about Unforeseen Possibilities During Policy Learning                                           |[Abstract](http://arxiv.org/abs/1801.03331v1) \| [PDF](http://arxiv.org/pdf/1801.03331v1)|
+|2018-01-09|A Formalization of Kant's Second Formulation of the Categorical   Imperative                              |[Abstract](http://arxiv.org/abs/1801.03160v1) \| [PDF](http://arxiv.org/pdf/1801.03160v1)|
+|2018-01-02|Accounting for hidden common causes when inferring cause and effect from   observational data             |[Abstract](http://arxiv.org/abs/1801.00727v2) \| [PDF](http://arxiv.org/pdf/1801.00727v2)|
+|2018-01-01|Local Causal States and Discrete Coherent Structures                                                      |[Abstract](http://arxiv.org/abs/1801.00515v1) \| [PDF](http://arxiv.org/pdf/1801.00515v1)|
+
+
+
 ## 2017 / 12 / 31
 
 |   Date   |                                                                     Title                                                                      |                                         Links                                          |
