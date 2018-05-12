@@ -1,3 +1,53 @@
+## 2018 / 5 / 12
+
+|   Date   |                                                          Title                                                           |                                         Links                                          |
+|----------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|2018-05-08|On the Conditional Logic of Simulation Models                                                                             |[Abstract](http://arxiv.org/abs/1805.02859v1) \| [PDF](http://arxiv.org/pdf/1805.02859v1)|
+|2018-05-05|A Constraint-Based Algorithm For Causal Discovery with Cycles, Latent   Variables and Selection Bias                      |[Abstract](http://arxiv.org/abs/1805.02087v1) \| [PDF](http://arxiv.org/pdf/1805.02087v1)|
+|2018-05-05|Learning Selfie-Friendly Abstraction from Artistic Style Images                                                           |[Abstract](http://arxiv.org/abs/1805.02085v1) \| [PDF](http://arxiv.org/pdf/1805.02085v1)|
+|2018-05-04|Causal programming: inference with structural causal models as finding   instances of a relation                          |[Abstract](http://arxiv.org/abs/1805.01960v1) \| [PDF](http://arxiv.org/pdf/1805.01960v1)|
+|2018-05-04|Causal Queries from Observational Data in Biological Systems via   Bayesian Networks: An Empirical Study in Small Networks|[Abstract](http://arxiv.org/abs/1805.01608v1) \| [PDF](http://arxiv.org/pdf/1805.01608v1)|
+|2018-05-03|Improving a Neural Semantic Parser by Counterfactual Learning from Human   Bandit Feedback                                |[Abstract](http://arxiv.org/abs/1805.01252v1) \| [PDF](http://arxiv.org/pdf/1805.01252v1)|
+|2018-05-02|Convolutional Sequence to Sequence Model for Human Dynamics                                                               |[Abstract](http://arxiv.org/abs/1805.00655v1) \| [PDF](http://arxiv.org/pdf/1805.00655v1)|
+|2018-04-30|Counterfactual Learning-to-Rank for Additive Metrics and Deep Models                                                      |[Abstract](http://arxiv.org/abs/1805.00065v1) \| [PDF](http://arxiv.org/pdf/1805.00065v1)|
+|2018-04-28|Data science is science's second chance to get causal inference right: A   classification of data science tasks           |[Abstract](http://arxiv.org/abs/1804.10846v2) \| [PDF](http://arxiv.org/pdf/1804.10846v2)|
+|2018-04-24|Genesis of Basic and Multi-Layer Echo State Network Recurrent   Autoencoders for Efficient Data Representations           |[Abstract](http://arxiv.org/abs/1804.08996v1) \| [PDF](http://arxiv.org/pdf/1804.08996v1)|
+|2018-04-24|Mask-aware Photorealistic Face Attribute Manipulation                                                                     |[Abstract](http://arxiv.org/abs/1804.08882v1) \| [PDF](http://arxiv.org/pdf/1804.08882v1)|
+|2018-04-18|Forecasting the presence and intensity of hostility on Instagram using   linguistic and social features                   |[Abstract](http://arxiv.org/abs/1804.06759v1) \| [PDF](http://arxiv.org/pdf/1804.06759v1)|
+|2018-04-17|PredRNN++: Towards A Resolution of the Deep-in-Time Dilemma in   Spatiotemporal Predictive Learning                       |[Abstract](http://arxiv.org/abs/1804.06300v1) \| [PDF](http://arxiv.org/pdf/1804.06300v1)|
+|2018-04-16|Im2Struct: Recovering 3D Shape Structure from a Single RGB Image                                                          |[Abstract](http://arxiv.org/abs/1804.05469v1) \| [PDF](http://arxiv.org/pdf/1804.05469v1)|
+|2018-04-15|The EcoLexicon Semantic Sketch Grammar: from Knowledge Patterns to Word   Sketches                                        |[Abstract](http://arxiv.org/abs/1804.05294v1) \| [PDF](http://arxiv.org/pdf/1804.05294v1)|
+|2018-04-14|An interpretable LSTM neural network for autoregressive exogenous model                                                   |[Abstract](http://arxiv.org/abs/1804.05251v1) \| [PDF](http://arxiv.org/pdf/1804.05251v1)|
+|2018-04-14|General-purpose validation and model selection when estimating   individual treatment effects                             |[Abstract](http://arxiv.org/abs/1804.05146v1) \| [PDF](http://arxiv.org/pdf/1804.05146v1)|
+|2018-04-12|Causal Inference via Kernel Deviance Measures                                                                             |[Abstract](http://arxiv.org/abs/1804.04622v1) \| [PDF](http://arxiv.org/pdf/1804.04622v1)|
+|2018-04-12|Generative Adversarial Training for MRA Image Synthesis Using   Multi-Contrast MRI                                        |[Abstract](http://arxiv.org/abs/1804.04366v1) \| [PDF](http://arxiv.org/pdf/1804.04366v1)|
+|2018-04-12|Causal Generative Domain Adaptation Networks                                                                              |[Abstract](http://arxiv.org/abs/1804.04333v1) \| [PDF](http://arxiv.org/pdf/1804.04333v1)|
+|2018-04-11|AFA-PredNet: The action modulation within predictive coding                                                               |[Abstract](http://arxiv.org/abs/1804.03826v1) \| [PDF](http://arxiv.org/pdf/1804.03826v1)|
+|2018-04-11|Reference-less Measure of Faithfulness for Grammatical Error Correction                                                   |[Abstract](http://arxiv.org/abs/1804.03824v4) \| [PDF](http://arxiv.org/pdf/1804.03824v4)|
+|2018-04-10|Personalization of Health Interventions using Cluster-Based   Reinforcement Learning                                      |[Abstract](http://arxiv.org/abs/1804.03592v1) \| [PDF](http://arxiv.org/pdf/1804.03592v1)|
+|2018-04-10|A Mathematical Framework for Superintelligent Machines                                                                    |[Abstract](http://arxiv.org/abs/1804.03301v1) \| [PDF](http://arxiv.org/pdf/1804.03301v1)|
+|2018-04-09|Recovering Realistic Texture in Image Super-resolution by Deep Spatial   Feature Transform                                |[Abstract](http://arxiv.org/abs/1804.02815v1) \| [PDF](http://arxiv.org/pdf/1804.02815v1)|
+|2018-04-08|Expressway visibility estimation based on image entropy and piecewise   stationary time series analysis                   |[Abstract](http://arxiv.org/abs/1804.04601v1) \| [PDF](http://arxiv.org/pdf/1804.04601v1)|
+|2018-04-04|Stochastic Adversarial Video Prediction                                                                                   |[Abstract](http://arxiv.org/abs/1804.01523v1) \| [PDF](http://arxiv.org/pdf/1804.01523v1)|
+|2018-03-31|Collaborative targeted inference from continuously indexed nuisance   parameter estimators                                |[Abstract](http://arxiv.org/abs/1804.00102v2) \| [PDF](http://arxiv.org/pdf/1804.00102v2)|
+|2018-03-30|Overview: A Hierarchical Framework for Plan Generation and Execution in   Multi-Robot Systems                             |[Abstract](http://arxiv.org/abs/1804.00038v1) \| [PDF](http://arxiv.org/pdf/1804.00038v1)|
+|2018-03-29|Computer-Assisted Text Analysis for Social Science: Topic Models and   Beyond                                             |[Abstract](http://arxiv.org/abs/1803.11045v2) \| [PDF](http://arxiv.org/pdf/1803.11045v2)|
+|2018-03-28|Supervising Feature Influence                                                                                             |[Abstract](http://arxiv.org/abs/1803.10815v2) \| [PDF](http://arxiv.org/pdf/1803.10815v2)|
+|2018-03-28|Estimating causal effects of time-dependent exposures on a binary   endpoint in a high-dimensional setting                |[Abstract](http://arxiv.org/abs/1803.10535v2) \| [PDF](http://arxiv.org/pdf/1803.10535v2)|
+|2018-03-24|Efficient Discovery of Heterogeneous Treatment Effects in Randomized   Experiments via Anomalous Pattern Detection        |[Abstract](http://arxiv.org/abs/1803.09159v1) \| [PDF](http://arxiv.org/pdf/1803.09159v1)|
+|2018-03-23|From Random Differential Equations to Structural Causal Models: the   stochastic case                                     |[Abstract](http://arxiv.org/abs/1803.08784v2) \| [PDF](http://arxiv.org/pdf/1803.08784v2)|
+|2018-03-21|Efficient Structure Learning and Sampling of Bayesian Networks                                                            |[Abstract](http://arxiv.org/abs/1803.07859v1) \| [PDF](http://arxiv.org/pdf/1803.07859v1)|
+|2018-03-21|Causal Inference on Discrete Data via Estimating Distance Correlations                                                    |[Abstract](http://arxiv.org/abs/1803.07712v2) \| [PDF](http://arxiv.org/pdf/1803.07712v2)|
+|2018-03-19|Blaming humans in autonomous vehicle accidents: Shared responsibility   across levels of automation                       |[Abstract](http://arxiv.org/abs/1803.07170v2) \| [PDF](http://arxiv.org/pdf/1803.07170v2)|
+|2018-03-19|Adversarial Generalized Method of Moments                                                                                 |[Abstract](http://arxiv.org/abs/1803.07164v2) \| [PDF](http://arxiv.org/pdf/1803.07164v2)|
+|2018-03-19|Confounder Detection in High Dimensional Linear Models using First   Moments of Spectral Measures                         |[Abstract](http://arxiv.org/abs/1803.06852v2) \| [PDF](http://arxiv.org/pdf/1803.06852v2)|
+|2018-03-17|Offloading over Time-Varying Channels in Wireless Powered Networks                                                        |[Abstract](http://arxiv.org/abs/1804.01834v1) \| [PDF](http://arxiv.org/pdf/1804.01834v1)|
+|2018-03-16|Coordination via predictive assistants from a game-theoretic view                                                         |[Abstract](http://arxiv.org/abs/1803.06247v1) \| [PDF](http://arxiv.org/pdf/1803.06247v1)|
+|2018-03-15|Learned Iterative Decoding for Lossy Image Compression Systems                                                            |[Abstract](http://arxiv.org/abs/1803.05863v2) \| [PDF](http://arxiv.org/pdf/1803.05863v2)|
+|2018-03-15|Minimal I-MAP MCMC for Scalable Structure Discovery in Causal DAG Models                                                  |[Abstract](http://arxiv.org/abs/1803.05554v1) \| [PDF](http://arxiv.org/pdf/1803.05554v1)|
+
+
+
 ## 2018 / 3 / 15
 
 |   Date   |                                                                           Title                                                                           |                                         Links                                          |
