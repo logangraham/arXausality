@@ -5,7 +5,13 @@ import sys
 
 
 def run(*args):
+    """
+    Flow:
+        -> fetch_papers pull supdate
+        -> make_spreadsheet turns to spreadsheet
+    """
     if args:
+        print("ARGS:{}".format(args))
         return get_paper_spreadsheet(int(args[0]))
     else:
         n_days = days_since_last()

@@ -1,3 +1,66 @@
+## 2018 / 6 / 21
+
+|   Date   |                                                         Title                                                         |                                         Links                                          |
+|----------|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|2018-06-20|Doubly Nested Network for Resource-Efficient Inference                                                                 |[Abstract](http://arxiv.org/abs/1806.07568v1) \| [PDF](http://arxiv.org/pdf/1806.07568v1)|
+|2018-06-20|Towards Robust Interpretability with Self-Explaining Neural Networks                                                   |[Abstract](http://arxiv.org/abs/1806.07538v1) \| [PDF](http://arxiv.org/pdf/1806.07538v1)|
+|2018-06-19|Surrogate Outcomes and Transportability                                                                                |[Abstract](http://arxiv.org/abs/1806.07172v1) \| [PDF](http://arxiv.org/pdf/1806.07172v1)|
+|2018-06-19|Enhancing Identification of Causal Effects by Pruning                                                                  |[Abstract](http://arxiv.org/abs/1806.07085v1) \| [PDF](http://arxiv.org/pdf/1806.07085v1)|
+|2018-06-19|Simplifying Probabilistic Expressions in Causal Inference                                                              |[Abstract](http://arxiv.org/abs/1806.07082v1) \| [PDF](http://arxiv.org/pdf/1806.07082v1)|
+|2018-06-19|Restricted Boltzmann Machines: Introduction and Review                                                                 |[Abstract](http://arxiv.org/abs/1806.07066v1) \| [PDF](http://arxiv.org/pdf/1806.07066v1)|
+|2018-06-18|Collapsing-Fast-Large-Almost-Matching-Exactly: A Matching Method for   Causal Inference                                |[Abstract](http://arxiv.org/abs/1806.06802v1) \| [PDF](http://arxiv.org/pdf/1806.06802v1)|
+|2018-06-18|Flexible Collaborative Estimation of the Average Causal Effect of a   Treatment using the Outcome-Highly-Adaptive Lasso|[Abstract](http://arxiv.org/abs/1806.06784v1) \| [PDF](http://arxiv.org/pdf/1806.06784v1)|
+|2018-06-17|Multi-variable LSTM neural network for autoregressive exogenous model                                                  |[Abstract](http://arxiv.org/abs/1806.06384v1) \| [PDF](http://arxiv.org/pdf/1806.06384v1)|
+|2018-06-16|Stable Prediction across Unknown Environments                                                                          |[Abstract](http://arxiv.org/abs/1806.06270v1) \| [PDF](http://arxiv.org/pdf/1806.06270v1)|
+|2018-06-16|The Reduced PC-Algorithm: Improved Causal Structure Learning in Large   Random Networks                                |[Abstract](http://arxiv.org/abs/1806.06209v1) \| [PDF](http://arxiv.org/pdf/1806.06209v1)|
+|2018-06-13|Plug-in Regularized Estimation of High-Dimensional Parameters in   Nonlinear Semiparametric Models                     |[Abstract](http://arxiv.org/abs/1806.04823v2) \| [PDF](http://arxiv.org/pdf/1806.04823v2)|
+|2018-06-11|Massively Parallel Video Networks                                                                                      |[Abstract](http://arxiv.org/abs/1806.03863v1) \| [PDF](http://arxiv.org/pdf/1806.03863v1)|
+|2018-06-09|Consistent Position Bias Estimation without Online Interventions for   Learning-to-Rank                                |[Abstract](http://arxiv.org/abs/1806.03555v1) \| [PDF](http://arxiv.org/pdf/1806.03555v1)|
+|2018-06-09|Orthogonal Random Forest for Heterogeneous Treatment Effect Estimation                                                 |[Abstract](http://arxiv.org/abs/1806.03467v1) \| [PDF](http://arxiv.org/pdf/1806.03467v1)|
+|2018-06-08|Pricing Engine: Estimating Causal Impacts in Real World Business   Settings                                            |[Abstract](http://arxiv.org/abs/1806.03285v2) \| [PDF](http://arxiv.org/pdf/1806.03285v2)|
+|2018-06-08|Causal effects based on distributional distances                                                                       |[Abstract](http://arxiv.org/abs/1806.02935v1) \| [PDF](http://arxiv.org/pdf/1806.02935v1)|
+|2018-06-07|Unbiased Estimation of the Value of an Optimized Policy                                                                |[Abstract](http://arxiv.org/abs/1806.02794v1) \| [PDF](http://arxiv.org/pdf/1806.02794v1)|
+|2018-06-06|Causal Interventions for Fairness                                                                                      |[Abstract](http://arxiv.org/abs/1806.02380v1) \| [PDF](http://arxiv.org/pdf/1806.02380v1)|
+|2018-06-06|Causal Bandits with Propagating Inference                                                                              |[Abstract](http://arxiv.org/abs/1806.02252v1) \| [PDF](http://arxiv.org/pdf/1806.02252v1)|
+|2018-06-05|MRPC: An R package for accurate inference of causal graphs                                                             |[Abstract](http://arxiv.org/abs/1806.01899v1) \| [PDF](http://arxiv.org/pdf/1806.01899v1)|
+|2018-06-05|A Primer on Causal Analysis                                                                                            |[Abstract](http://arxiv.org/abs/1806.01488v1) \| [PDF](http://arxiv.org/pdf/1806.01488v1)|
+|2018-06-04|groupICA: Independent component analysis for grouped data                                                              |[Abstract](http://arxiv.org/abs/1806.01094v1) \| [PDF](http://arxiv.org/pdf/1806.01094v1)|
+|2018-06-04|Optimal Balancing of Time-Dependent Confounders for Marginal Structural   Models                                       |[Abstract](http://arxiv.org/abs/1806.01083v1) \| [PDF](http://arxiv.org/pdf/1806.01083v1)|
+|2018-06-03|Structural Learning of Multivariate Regression Chain Graphs via   Decomposition                                        |[Abstract](http://arxiv.org/abs/1806.00882v1) \| [PDF](http://arxiv.org/pdf/1806.00882v1)|
+|2018-06-03|Causal Inference with Noisy and Missing Covariates via Matrix   Factorization                                          |[Abstract](http://arxiv.org/abs/1806.00811v1) \| [PDF](http://arxiv.org/pdf/1806.00811v1)|
+|2018-05-31|Learning Tree Distributions by Hidden Markov Models                                                                    |[Abstract](http://arxiv.org/abs/1805.12372v1) \| [PDF](http://arxiv.org/pdf/1805.12372v1)|
+|2018-05-31|Root-cause Analysis for Time-series Anomalies via Spatiotemporal   Graphical Modeling in Distributed Complex Systems   |[Abstract](http://arxiv.org/abs/1805.12296v1) \| [PDF](http://arxiv.org/pdf/1805.12296v1)|
+|2018-05-30|Too Fast Causal Inference under Causal Insufficiency                                                                   |[Abstract](http://arxiv.org/abs/1806.00352v1) \| [PDF](http://arxiv.org/pdf/1806.00352v1)|
+|2018-05-28|Local Rule-Based Explanations of Black Box Decision Systems                                                            |[Abstract](http://arxiv.org/abs/1805.10820v1) \| [PDF](http://arxiv.org/pdf/1805.10820v1)|
+|2018-05-24|Structure Learning from Time Series with False Discovery Control                                                       |[Abstract](http://arxiv.org/abs/1805.09909v1) \| [PDF](http://arxiv.org/pdf/1805.09909v1)|
+|2018-05-24|Pooling of Causal Models under Counterfactual Fairness via Causal   Judgement Aggregation                              |[Abstract](http://arxiv.org/abs/1805.09866v1) \| [PDF](http://arxiv.org/pdf/1805.09866v1)|
+|2018-05-24|Inverse POMDP: Inferring What You Think from What You Do                                                               |[Abstract](http://arxiv.org/abs/1805.09864v1) \| [PDF](http://arxiv.org/pdf/1805.09864v1)|
+|2018-05-24|Learning and Testing Causal Models with Interventions                                                                  |[Abstract](http://arxiv.org/abs/1805.09697v1) \| [PDF](http://arxiv.org/pdf/1805.09697v1)|
+|2018-05-24|A Unified Probabilistic Model for Learning Latent Factors and Their   Connectivities from High-Dimensional Data        |[Abstract](http://arxiv.org/abs/1805.09567v1) \| [PDF](http://arxiv.org/pdf/1805.09567v1)|
+|2018-05-24|Stable specification search in structural equation model with latent   variables                                       |[Abstract](http://arxiv.org/abs/1805.09527v1) \| [PDF](http://arxiv.org/pdf/1805.09527v1)|
+|2018-05-23|On self-play computation of equilibrium in poker                                                                       |[Abstract](http://arxiv.org/abs/1805.09282v1) \| [PDF](http://arxiv.org/pdf/1805.09282v1)|
+|2018-05-23|Representation Balancing MDPs for Off-Policy Policy Evaluation                                                         |[Abstract](http://arxiv.org/abs/1805.09044v1) \| [PDF](http://arxiv.org/pdf/1805.09044v1)|
+|2018-05-22|Multi-task Maximum Entropy Inverse Reinforcement Learning                                                              |[Abstract](http://arxiv.org/abs/1805.08882v1) \| [PDF](http://arxiv.org/pdf/1805.08882v1)|
+|2018-05-22|Counterfactual Mean Embedding: A Kernel Method for Nonparametric Causal   Inference                                    |[Abstract](http://arxiv.org/abs/1805.08845v1) \| [PDF](http://arxiv.org/pdf/1805.08845v1)|
+|2018-05-22|Confounding-Robust Policy Improvement                                                                                  |[Abstract](http://arxiv.org/abs/1805.08593v1) \| [PDF](http://arxiv.org/pdf/1805.08593v1)|
+|2018-05-22|Maximum Causal Tsallis Entropy Imitation Learning                                                                      |[Abstract](http://arxiv.org/abs/1805.08336v2) \| [PDF](http://arxiv.org/pdf/1805.08336v2)|
+|2018-05-21|Multiple Causal Inference with Latent Confounding                                                                      |[Abstract](http://arxiv.org/abs/1805.08273v1) \| [PDF](http://arxiv.org/pdf/1805.08273v1)|
+|2018-05-21|Super learning in the SAS system                                                                                       |[Abstract](http://arxiv.org/abs/1805.08058v2) \| [PDF](http://arxiv.org/pdf/1805.08058v2)|
+|2018-05-21|Imitating Latent Policies from Observation                                                                             |[Abstract](http://arxiv.org/abs/1805.07914v2) \| [PDF](http://arxiv.org/pdf/1805.07914v2)|
+|2018-05-21|A Framework and Method for Online Inverse Reinforcement Learning                                                       |[Abstract](http://arxiv.org/abs/1805.07871v1) \| [PDF](http://arxiv.org/pdf/1805.07871v1)|
+|2018-05-20|Machine Teaching for Inverse Reinforcement Learning: Algorithms and   Applications                                     |[Abstract](http://arxiv.org/abs/1805.07687v1) \| [PDF](http://arxiv.org/pdf/1805.07687v1)|
+|2018-05-20|Stacked Propensity Score Functions for Observational Cohorts with   Oversampled Exposed Subjects                       |[Abstract](http://arxiv.org/abs/1805.07684v1) \| [PDF](http://arxiv.org/pdf/1805.07684v1)|
+|2018-05-17|Tracking State Changes in Procedural Text: A Challenge Dataset and   Models for Process Paragraph Comprehension        |[Abstract](http://arxiv.org/abs/1805.06975v1) \| [PDF](http://arxiv.org/pdf/1805.06975v1)|
+|2018-05-17|The Blessings of Multiple Causes                                                                                       |[Abstract](http://arxiv.org/abs/1805.06826v2) \| [PDF](http://arxiv.org/pdf/1805.06826v2)|
+|2018-05-16|Generalized Strucutral Causal Models                                                                                   |[Abstract](http://arxiv.org/abs/1805.06539v1) \| [PDF](http://arxiv.org/pdf/1805.06539v1)|
+|2018-05-16|Regularization Learning Networks                                                                                       |[Abstract](http://arxiv.org/abs/1805.06440v1) \| [PDF](http://arxiv.org/pdf/1805.06440v1)|
+|2018-05-16|Semi-Blind Inference of Topologies and Dynamical Processes over Graphs                                                 |[Abstract](http://arxiv.org/abs/1805.06095v1) \| [PDF](http://arxiv.org/pdf/1805.06095v1)|
+|2018-05-15|Causal Reasoning for Algorithmic Fairness                                                                              |[Abstract](http://arxiv.org/abs/1805.05859v1) \| [PDF](http://arxiv.org/pdf/1805.05859v1)|
+|2018-05-14|Faithfully Explaining Rankings in a News Recommender System                                                            |[Abstract](http://arxiv.org/abs/1805.05447v1) \| [PDF](http://arxiv.org/pdf/1805.05447v1)|
+|2018-05-14|Unsupervised Intuitive Physics from Visual Observations                                                                |[Abstract](http://arxiv.org/abs/1805.05086v1) \| [PDF](http://arxiv.org/pdf/1805.05086v1)|
+
+
+
 ## 2018 / 5 / 12
 
 |   Date   |                                                          Title                                                           |                                         Links                                          |

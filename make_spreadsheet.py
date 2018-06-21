@@ -1,6 +1,6 @@
 import datetime
 import unicodecsv as csv
-from pull_update import fetch_papers
+from fetch_papers import fetch_papers
 
 
 def get_paper_spreadsheet(past_n_days):
