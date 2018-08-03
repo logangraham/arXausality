@@ -1,3 +1,50 @@
+## 2018 / 8 / 3
+
+|   Date   |                                                       Title                                                        |                                         Links                                          |
+|----------|--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|2018-07-31|Gender Bias in Neural Natural Language Processing                                                                   |[Abstract](http://arxiv.org/abs/1807.11714v1) \| [PDF](http://arxiv.org/pdf/1807.11714v1)|
+|2018-07-30|Causal Modeling with Probabilistic Simulation Models                                                                |[Abstract](http://arxiv.org/abs/1807.11139v1) \| [PDF](http://arxiv.org/pdf/1807.11139v1)|
+|2018-07-26|Entropic Latent Variable Discovery                                                                                  |[Abstract](http://arxiv.org/abs/1807.10399v1) \| [PDF](http://arxiv.org/pdf/1807.10399v1)|
+|2018-07-26|Differential Analysis of Directed Networks                                                                          |[Abstract](http://arxiv.org/abs/1807.10173v1) \| [PDF](http://arxiv.org/pdf/1807.10173v1)|
+|2018-07-25|Grounding Visual Explanations                                                                                       |[Abstract](http://arxiv.org/abs/1807.09685v2) \| [PDF](http://arxiv.org/pdf/1807.09685v2)|
+|2018-07-24|Learning Plannable Representations with Causal InfoGAN                                                              |[Abstract](http://arxiv.org/abs/1807.09341v1) \| [PDF](http://arxiv.org/pdf/1807.09341v1)|
+|2018-07-22|Learning Deep Hidden Nonlinear Dynamics from Aggregate Data                                                         |[Abstract](http://arxiv.org/abs/1807.08237v2) \| [PDF](http://arxiv.org/pdf/1807.08237v2)|
+|2018-07-20|Boosting algorithms for uplift modeling                                                                             |[Abstract](http://arxiv.org/abs/1807.07909v1) \| [PDF](http://arxiv.org/pdf/1807.07909v1)|
+|2018-07-20|Semi-Generative Modelling: Domain Adaptation with Cause and Effect   Features                                       |[Abstract](http://arxiv.org/abs/1807.07879v1) \| [PDF](http://arxiv.org/pdf/1807.07879v1)|
+|2018-07-20|Learning the effect of latent variables in Gaussian Graphical models   with unobserved variables                    |[Abstract](http://arxiv.org/abs/1807.07754v2) \| [PDF](http://arxiv.org/pdf/1807.07754v2)|
+|2018-07-18|Video Time: Properties, Encoders and Evaluation                                                                     |[Abstract](http://arxiv.org/abs/1807.06980v1) \| [PDF](http://arxiv.org/pdf/1807.06980v1)|
+|2018-07-18|Machine Learning Interpretability: A Science rather than a tool                                                     |[Abstract](http://arxiv.org/abs/1807.06722v2) \| [PDF](http://arxiv.org/pdf/1807.06722v2)|
+|2018-07-17|Knockoffs for the mass: new feature importance statistics with false   discovery guarantees                         |[Abstract](http://arxiv.org/abs/1807.06214v1) \| [PDF](http://arxiv.org/pdf/1807.06214v1)|
+|2018-07-14|Specular-to-Diffuse Translation for Multi-View Reconstruction                                                       |[Abstract](http://arxiv.org/abs/1807.05439v3) \| [PDF](http://arxiv.org/pdf/1807.05439v3)|
+|2018-07-13|Towards Modeling the Interaction of Spatial-Associative Neural Network   Representations for Multisensory Perception|[Abstract](http://arxiv.org/abs/1807.05222v1) \| [PDF](http://arxiv.org/pdf/1807.05222v1)|
+|2018-07-12|Fast Estimation of Causal Interactions using Wold Processes                                                         |[Abstract](http://arxiv.org/abs/1807.04595v1) \| [PDF](http://arxiv.org/pdf/1807.04595v1)|
+|2018-07-11|Causal discovery in the presence of missing data                                                                    |[Abstract](http://arxiv.org/abs/1807.04010v1) \| [PDF](http://arxiv.org/pdf/1807.04010v1)|
+|2018-07-10|Dual optimization for convex constrained objectives without the   gradient-Lipschitz assumption                     |[Abstract](http://arxiv.org/abs/1807.03545v1) \| [PDF](http://arxiv.org/pdf/1807.03545v1)|
+|2018-07-10|Algebraic Equivalence of Linear Structural Equation Models                                                          |[Abstract](http://arxiv.org/abs/1807.03527v1) \| [PDF](http://arxiv.org/pdf/1807.03527v1)|
+|2018-07-09|Constraint-based Causal Discovery for Non-Linear Structural Causal   Models with Cycles and Latent Confounders      |[Abstract](http://arxiv.org/abs/1807.03024v1) \| [PDF](http://arxiv.org/pdf/1807.03024v1)|
+|2018-07-09|A Sequence-to-Sequence Model for Semantic Role Labeling                                                             |[Abstract](http://arxiv.org/abs/1807.03006v1) \| [PDF](http://arxiv.org/pdf/1807.03006v1)|
+|2018-07-09|Supervised Local Modeling for Interpretability                                                                      |[Abstract](http://arxiv.org/abs/1807.02910v1) \| [PDF](http://arxiv.org/pdf/1807.02910v1)|
+|2018-07-06|Causal Deep Information Bottleneck                                                                                  |[Abstract](http://arxiv.org/abs/1807.02326v1) \| [PDF](http://arxiv.org/pdf/1807.02326v1)|
+|2018-07-06|Sum-Product Networks for Sequence Labeling                                                                          |[Abstract](http://arxiv.org/abs/1807.02324v1) \| [PDF](http://arxiv.org/pdf/1807.02324v1)|
+|2018-07-05|Representing scenarios for process evolution management                                                             |[Abstract](http://arxiv.org/abs/1807.02072v1) \| [PDF](http://arxiv.org/pdf/1807.02072v1)|
+|2018-07-03|Playing against Nature: causal discovery for decision making under   uncertainty                                    |[Abstract](http://arxiv.org/abs/1807.01268v1) \| [PDF](http://arxiv.org/pdf/1807.01268v1)|
+|2018-07-02|Analysis and Optimization of Deep CounterfactualValue Networks                                                      |[Abstract](http://arxiv.org/abs/1807.00900v1) \| [PDF](http://arxiv.org/pdf/1807.00900v1)|
+|2018-06-30|Mammography Assessment using Multi-Scale Deep Classifiers                                                           |[Abstract](http://arxiv.org/abs/1807.03095v1) \| [PDF](http://arxiv.org/pdf/1807.03095v1)|
+|2018-06-29|Bayesian Counterfactual Risk Minimization                                                                           |[Abstract](http://arxiv.org/abs/1806.11500v1) \| [PDF](http://arxiv.org/pdf/1806.11500v1)|
+|2018-06-26|Deep $k$-Means: Jointly Clustering with $k$-Means and Learning   Representations                                    |[Abstract](http://arxiv.org/abs/1806.10069v1) \| [PDF](http://arxiv.org/pdf/1806.10069v1)|
+|2018-06-26|A Constraint-based Encoding for Domain-Independent Temporal Planning                                                |[Abstract](http://arxiv.org/abs/1806.09954v1) \| [PDF](http://arxiv.org/pdf/1806.09954v1)|
+|2018-06-26|Open the Black Box Data-Driven Explanation of Black Box Decision Systems                                            |[Abstract](http://arxiv.org/abs/1806.09936v1) \| [PDF](http://arxiv.org/pdf/1806.09936v1)|
+|2018-06-26|Generating Counterfactual Explanations with Natural Language                                                        |[Abstract](http://arxiv.org/abs/1806.09809v1) \| [PDF](http://arxiv.org/pdf/1806.09809v1)|
+|2018-06-26|Causal Inference for Early Detection of Pathogenic Social Media Accounts                                            |[Abstract](http://arxiv.org/abs/1806.09787v1) \| [PDF](http://arxiv.org/pdf/1806.09787v1)|
+|2018-06-25|A Proof of the Front-Door Adjustment Formula                                                                        |[Abstract](http://arxiv.org/abs/1806.10449v1) \| [PDF](http://arxiv.org/pdf/1806.10449v1)|
+|2018-06-25|An Outcome Model Approach to Translating a Randomized Controlled Trial   Results to a Target Population             |[Abstract](http://arxiv.org/abs/1806.09692v1) \| [PDF](http://arxiv.org/pdf/1806.09692v1)|
+|2018-06-22|Learning Traffic Flow Dynamics using Random Fields                                                                  |[Abstract](http://arxiv.org/abs/1806.08764v1) \| [PDF](http://arxiv.org/pdf/1806.08764v1)|
+|2018-06-22|Visual-Inertial Object Detection and Mapping                                                                        |[Abstract](http://arxiv.org/abs/1806.08498v1) \| [PDF](http://arxiv.org/pdf/1806.08498v1)|
+|2018-06-22|Learning a High Fidelity Pose Invariant Model for High-resolution Face   Frontalization                             |[Abstract](http://arxiv.org/abs/1806.08472v1) \| [PDF](http://arxiv.org/pdf/1806.08472v1)|
+|2018-06-21|Identifiability of Gaussian Structural Equation Models with Dependent   Errors Having Equal Variances               |[Abstract](http://arxiv.org/abs/1806.08156v2) \| [PDF](http://arxiv.org/pdf/1806.08156v2)|
+
+
+
 ## 2018 / 6 / 21
 
 |   Date   |                                                         Title                                                         |                                         Links                                          |
