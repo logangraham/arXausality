@@ -1,3 +1,25 @@
+## 2018 / 10 / 10
+
+|   Date   |                                                          Title                                                           |                                         Links                                          |
+|----------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|2018-10-08|Optimizing Waiting Thresholds Within A State Machine                                                                      |[Abstract](http://arxiv.org/abs/1810.03278v1) \| [PDF](http://arxiv.org/pdf/1810.03278v1)|
+|2018-10-07|Solving Large Sequential Games with the Excessive Gap Technique                                                           |[Abstract](http://arxiv.org/abs/1810.03063v1) \| [PDF](http://arxiv.org/pdf/1810.03063v1)|
+|2018-10-05|Interval Estimation of Individual-Level Causal Effects Under Unobserved   Confounding                                     |[Abstract](http://arxiv.org/abs/1810.02894v1) \| [PDF](http://arxiv.org/pdf/1810.02894v1)|
+|2018-10-05|High-Dimensional Poisson DAG Model Learning Using $\ell_1$-Regularized   Regression                                       |[Abstract](http://arxiv.org/abs/1810.02501v1) \| [PDF](http://arxiv.org/pdf/1810.02501v1)|
+|2018-10-02|Contextual Multi-Armed Bandits for Causal Marketing                                                                       |[Abstract](http://arxiv.org/abs/1810.01859v1) \| [PDF](http://arxiv.org/pdf/1810.01859v1)|
+|2018-10-01|Challenges of Using Text Classifiers for Causal Inference                                                                 |[Abstract](http://arxiv.org/abs/1810.00956v1) \| [PDF](http://arxiv.org/pdf/1810.00956v1)|
+|2018-10-01|Counterfactually Fair Prediction Using Multiple Causal Models                                                             |[Abstract](http://arxiv.org/abs/1810.00694v1) \| [PDF](http://arxiv.org/pdf/1810.00694v1)|
+|2018-10-01|Perfect Match: A Simple Method for Learning Representations For   Counterfactual Inference With Neural Networks           |[Abstract](http://arxiv.org/abs/1810.00656v2) \| [PDF](http://arxiv.org/pdf/1810.00656v2)|
+|2018-09-30|3D-PSRNet: Part Segmented 3D Point Cloud Reconstruction From a Single   Image                                             |[Abstract](http://arxiv.org/abs/1810.00461v1) \| [PDF](http://arxiv.org/pdf/1810.00461v1)|
+|2018-09-28|HyperST-Net: Hypernetworks for Spatio-Temporal Forecasting                                                                |[Abstract](http://arxiv.org/abs/1809.10889v1) \| [PDF](http://arxiv.org/pdf/1809.10889v1)|
+|2018-09-27|Estimation of Personalized Effects Associated With Causal Pathways                                                        |[Abstract](http://arxiv.org/abs/1809.10791v1) \| [PDF](http://arxiv.org/pdf/1809.10791v1)|
+|2018-09-27|Controllable Neural Story Generation via Reinforcement Learning                                                           |[Abstract](http://arxiv.org/abs/1809.10736v1) \| [PDF](http://arxiv.org/pdf/1809.10736v1)|
+|2018-09-27|Inference for Individual Mediation Effects and Interventional Effects in   Sparse High-Dimensional Causal Graphical Models|[Abstract](http://arxiv.org/abs/1809.10652v1) \| [PDF](http://arxiv.org/pdf/1809.10652v1)|
+|2018-09-27|Counterfactual Fairness in Text Classification through Robustness                                                         |[Abstract](http://arxiv.org/abs/1809.10610v1) \| [PDF](http://arxiv.org/pdf/1809.10610v1)|
+|2018-09-26|Deep Neural Networks for Estimation and Inference: Application to Causal   Effects and Other Semiparametric Estimands     |[Abstract](http://arxiv.org/abs/1809.09953v1) \| [PDF](http://arxiv.org/pdf/1809.09953v1)|
+
+
+
 ## 2018 / 9 / 26
 
 |   Date   |                                                          Title                                                           |                                         Links                                          |
