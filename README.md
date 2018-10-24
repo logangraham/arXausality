@@ -1,3 +1,23 @@
+## 2018 / 10 / 24
+
+|   Date   |                                                         Title                                                          |                                         Links                                          |
+|----------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|2018-10-23|Meta-Learning Multi-task Communication                                                                                  |[Abstract](http://arxiv.org/abs/1810.09988v1) \| [PDF](http://arxiv.org/pdf/1810.09988v1)|
+|2018-10-22|Properties of an N Time-Slice Dynamic Chain Event Graph                                                                 |[Abstract](http://arxiv.org/abs/1810.09414v1) \| [PDF](http://arxiv.org/pdf/1810.09414v1)|
+|2018-10-21|Training Dynamic Exponential Family Models with Causal and Lateral   Dependencies for Generalized Neuromorphic Computing|[Abstract](http://arxiv.org/abs/1810.08940v2) \| [PDF](http://arxiv.org/pdf/1810.08940v2)|
+|2018-10-19|Intrinsic Social Motivation via Causal Influence in Multi-Agent RL                                                      |[Abstract](http://arxiv.org/abs/1810.08647v1) \| [PDF](http://arxiv.org/pdf/1810.08647v1)|
+|2018-10-18|An Upper Bound for Random Measurement Error in Causal Discovery                                                         |[Abstract](http://arxiv.org/abs/1810.07973v1) \| [PDF](http://arxiv.org/pdf/1810.07973v1)|
+|2018-10-17|Adversarial Balancing for Causal Inference                                                                              |[Abstract](http://arxiv.org/abs/1810.07406v1) \| [PDF](http://arxiv.org/pdf/1810.07406v1)|
+|2018-10-16|Accounting for Unobservable Heterogeneity in Cross Section Using Spatial   First Differences                            |[Abstract](http://arxiv.org/abs/1810.07216v1) \| [PDF](http://arxiv.org/pdf/1810.07216v1)|
+|2018-10-16|Hunting for Discriminatory Proxies in Linear Regression Models                                                          |[Abstract](http://arxiv.org/abs/1810.07155v1) \| [PDF](http://arxiv.org/pdf/1810.07155v1)|
+|2018-10-14|Robust Neural Abstractive Summarization Systems and Evaluation against   Adversarial Information                        |[Abstract](http://arxiv.org/abs/1810.06065v1) \| [PDF](http://arxiv.org/pdf/1810.06065v1)|
+|2018-10-13|Towards Formal Definitions of Blameworthiness, Intention, and Moral   Responsibility                                    |[Abstract](http://arxiv.org/abs/1810.05903v1) \| [PDF](http://arxiv.org/pdf/1810.05903v1)|
+|2018-10-13|Point Cloud GAN                                                                                                         |[Abstract](http://arxiv.org/abs/1810.05795v1) \| [PDF](http://arxiv.org/pdf/1810.05795v1)|
+|2018-10-10|Deep Recurrent Level Set for Segmenting Brain Tumors                                                                    |[Abstract](http://arxiv.org/abs/1810.04752v1) \| [PDF](http://arxiv.org/pdf/1810.04752v1)|
+|2018-10-10|Lazy-CFR: a fast regret minimization algorithm for extensive games with   imperfect information                         |[Abstract](http://arxiv.org/abs/1810.04433v1) \| [PDF](http://arxiv.org/pdf/1810.04433v1)|
+
+
+
 ## 2018 / 10 / 10
 
 |   Date   |                                                          Title                                                           |                                         Links                                          |
