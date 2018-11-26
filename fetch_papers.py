@@ -67,21 +67,22 @@ def fetch_papers(start, max_results=10, only_recent=True):
         query += suffix
 
     full_url = base_url + query
-    print full_url
+    print(full_url)
 
     feedparser._FeedParserMixin.namespaces['http://a9.com/-/spec/opensearch/1.1/'] = 'opensearch'
     feedparser._FeedParserMixin.namespaces['http://arxiv.org/schemas/atom'] = 'arxiv'
 
-    response = urllib.urlopen(base_url+query).read()
+    with urllib.request.urlopen(base_url+query) as url:
+        response = url.read()
 
     feed = feedparser.parse(response)
 
-    print 'Feed title: %s' % feed.feed.title
-    print 'Feed last updated: %s' % feed.feed.updated
+    print('Feed title: %s' % feed.feed.title)
+    print('Feed last updated: %s' % feed.feed.updated)
 
-    print 'totalResults for this query: %s' % feed.feed.opensearch_totalresults
-    print 'itemsPerPage for this query: %s' % feed.feed.opensearch_itemsperpage
-    print 'startIndex for this query: %s'   % feed.feed.opensearch_startindex
+    print('totalResults for this query: %s' % feed.feed.opensearch_totalresults)
+    print('itemsPerPage for this query: %s' % feed.feed.opensearch_itemsperpage)
+    print('startIndex for this query: %s'   % feed.feed.opensearch_startindex)
 
     rows = []
     for entry in feed.entries:  # extract information & add to list

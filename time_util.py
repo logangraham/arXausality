@@ -14,8 +14,8 @@ def get_last_created(filepath="../weekly_pulls/", extension_filter=None):
         files = [f for f in files if extension_filter in f and "fetch" in f]
     else:
         files = [f for f in files if "fetch" in f]
-    y_m_d = map(lambda x: " ".join(x.split("_")[:3]), files)
-    y_m_d = map(lambda x: datetime.strptime(x, "%Y %m %d"), y_m_d)
+    y_m_d = [i for i in map(lambda x: " ".join(x.split("_")[:3]), files)]
+    y_m_d = [i for i in map(lambda x: datetime.strptime(x, "%Y %m %d"), y_m_d)]
     index_of_latest = np.argmax(y_m_d)
     latest_created_file = filepath + files[index_of_latest]
     latest_created_date = y_m_d[index_of_latest].date()

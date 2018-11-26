@@ -28,11 +28,13 @@ def get_paper_spreadsheet(past_n_days):
     num_results, _ = fetch_papers(0, 5)  # find total number of papers
     for i in range(0, int(num_results) + 1, num_papers):  # iterate searches
         _, r = fetch_papers(i, num_papers)
-        rows = filter(lambda x: (current_date - x[1]).days <= past_n_days, r)
+        rows = [i for i in filter(lambda x:
+                                  (current_date - x[1]).days <= past_n_days,
+                                  r)]
         all_data += rows
         if len(rows) < len(r):
             break  # break if there are entries older than past_n_days
-    print "Num papers: ", len(all_data)
+    print("Num papers: ", len(all_data))
 
     # write to a spreadsheet
     filename = '../weekly_pulls/' + filename

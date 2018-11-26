@@ -17,17 +17,17 @@ def add_to_markdown_README(paper_table_filepath):
     writer = pytablewriter.MarkdownTableWriter()
     writer.stream = io.StringIO()
     writer.header_list = list(df.columns)
-    writer.value_matrix = df.values
+    writer.value_matrix = df.values.tolist()
     writer.write_table()
     writer.stream.seek(0)
-    markdown = "".join(writer.stream.readlines()).encode('utf8')
+    markdown = "".join(writer.stream.readlines())
 
     current_date = date.today()
-    ymd = " / ".join(map(str, [current_date.year,
+    ymd = " / ".join([i for i in map(str, [current_date.year,
                                current_date.month,
-                               current_date.day]))
+                               current_date.day])])
 
-    final_string = "## {}\n\n".format(ymd) + markdown
+    final_string = str("## {}\n\n".format(ymd) + markdown)
 
     with open("README.md", 'r+') as f:
         content = f.read()
@@ -35,7 +35,7 @@ def add_to_markdown_README(paper_table_filepath):
             f.seek(0, 0)
             f.write(final_string + '\n\n' + content)
         else:
-            print "Already put table from this week."
+            print("Already put table from this week.")
 
 if __name__ == '__main__':
     list_of_files = glob.glob('../weekly_pulls/*') # * means all if need specific format then *.csv
