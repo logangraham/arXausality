@@ -1,3 +1,42 @@
+## 2018 / 12 / 27
+
+|   Date   |                                                Title                                                 |                                         Links                                          |
+|----------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|2018-12-25|Dropout Regularization in Hierarchical Mixture of Experts                                             |[Abstract](http://arxiv.org/abs/1812.10158v1) \| [PDF](http://arxiv.org/pdf/1812.10158v1)|
+|2018-12-25|Goal-based Course Recommendation                                                                      |[Abstract](http://arxiv.org/abs/1812.10078v1) \| [PDF](http://arxiv.org/pdf/1812.10078v1)|
+|2018-12-24|Bayesian Causal Inference                                                                             |[Abstract](http://arxiv.org/abs/1812.09895v1) \| [PDF](http://arxiv.org/pdf/1812.09895v1)|
+|2018-12-22|Modified Causal Forests for Estimating Heterogeneous Causal Effects                                   |[Abstract](http://arxiv.org/abs/1812.09487v1) \| [PDF](http://arxiv.org/pdf/1812.09487v1)|
+|2018-12-21|Stochastic Doubly Robust Gradient                                                                     |[Abstract](http://arxiv.org/abs/1812.08997v1) \| [PDF](http://arxiv.org/pdf/1812.08997v1)|
+|2018-12-20|Robust Estimation of Causal Effects via High-Dimensional Covariate   Balancing Propensity Score       |[Abstract](http://arxiv.org/abs/1812.08683v1) \| [PDF](http://arxiv.org/pdf/1812.08683v1)|
+|2018-12-20|cuPC: CUDA-based Parallel PC Algorithm for Causal Structure Learning on   GPU                         |[Abstract](http://arxiv.org/abs/1812.08491v1) \| [PDF](http://arxiv.org/pdf/1812.08491v1)|
+|2018-12-19|Streaming Voice Query Recognition using Causal Convolutional Recurrent   Neural Networks              |[Abstract](http://arxiv.org/abs/1812.07754v1) \| [PDF](http://arxiv.org/pdf/1812.07754v1)|
+|2018-12-18|Hybrid Loss for Learning Single-Image-based HDR Reconstruction                                        |[Abstract](http://arxiv.org/abs/1812.07134v1) \| [PDF](http://arxiv.org/pdf/1812.07134v1)|
+|2018-12-15|Balanced Linear Contextual Bandits                                                                    |[Abstract](http://arxiv.org/abs/1812.06227v1) \| [PDF](http://arxiv.org/pdf/1812.06227v1)|
+|2018-12-15|Causal Identification under Markov Equivalence                                                        |[Abstract](http://arxiv.org/abs/1812.06209v1) \| [PDF](http://arxiv.org/pdf/1812.06209v1)|
+|2018-12-14|Inferring the size of the causal universe: features and fusion of causal   attribution networks       |[Abstract](http://arxiv.org/abs/1812.06038v1) \| [PDF](http://arxiv.org/pdf/1812.06038v1)|
+|2018-12-11|Predictive Learning on Sign-Valued Hidden Markov Trees                                                |[Abstract](http://arxiv.org/abs/1812.04700v1) \| [PDF](http://arxiv.org/pdf/1812.04700v1)|
+|2018-12-11|Learning Predictive Models That Transport                                                             |[Abstract](http://arxiv.org/abs/1812.04597v1) \| [PDF](http://arxiv.org/pdf/1812.04597v1)|
+|2018-12-10|Abstracting Causal Models                                                                             |[Abstract](http://arxiv.org/abs/1812.03789v1) \| [PDF](http://arxiv.org/pdf/1812.03789v1)|
+|2018-12-08|Weighted Risk Minimization & Deep Learning                                                            |[Abstract](http://arxiv.org/abs/1812.03372v1) \| [PDF](http://arxiv.org/pdf/1812.03372v1)|
+|2018-12-08|Counterfactuals uncover the modular structure of deep generative models                               |[Abstract](http://arxiv.org/abs/1812.03253v1) \| [PDF](http://arxiv.org/pdf/1812.03253v1)|
+|2018-12-07|seq2graph: Discovering Dynamic Dependencies from Multivariate Time   Series with Multi-level Attention|[Abstract](http://arxiv.org/abs/1812.04448v1) \| [PDF](http://arxiv.org/pdf/1812.04448v1)|
+|2018-12-07|ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing   the Worst                    |[Abstract](http://arxiv.org/abs/1812.03079v1) \| [PDF](http://arxiv.org/pdf/1812.03079v1)|
+|2018-12-07|EventNet: Asynchronous recursive event processing                                                     |[Abstract](http://arxiv.org/abs/1812.07045v1) \| [PDF](http://arxiv.org/pdf/1812.07045v1)|
+|2018-12-06|Scene Dynamics: Counterfactual Critic Multi-Agent Training for Scene   Graph Generation               |[Abstract](http://arxiv.org/abs/1812.02347v1) \| [PDF](http://arxiv.org/pdf/1812.02347v1)|
+|2018-12-04|Multimodal Explanations by Predicting Counterfactuality in Videos                                     |[Abstract](http://arxiv.org/abs/1812.01263v1) \| [PDF](http://arxiv.org/pdf/1812.01263v1)|
+|2018-12-03|Generalization in anti-causal learning                                                                |[Abstract](http://arxiv.org/abs/1812.00524v1) \| [PDF](http://arxiv.org/pdf/1812.00524v1)|
+|2018-12-01|Explainable Genetic Inheritance Pattern Prediction                                                    |[Abstract](http://arxiv.org/abs/1812.00259v3) \| [PDF](http://arxiv.org/pdf/1812.00259v3)|
+|2018-12-01|A Probabilistic Model of Cardiac Physiology and Electrocardiograms                                    |[Abstract](http://arxiv.org/abs/1812.00209v1) \| [PDF](http://arxiv.org/pdf/1812.00209v1)|
+|2018-11-30|Restricted Boltzmann Machine with Multivalued Hidden Variables: a model   suppressing over-fitting    |[Abstract](http://arxiv.org/abs/1811.12587v1) \| [PDF](http://arxiv.org/pdf/1811.12587v1)|
+|2018-11-29|Fast and Flexible Indoor Scene Synthesis via Deep Convolutional   Generative Models                   |[Abstract](http://arxiv.org/abs/1811.12463v1) \| [PDF](http://arxiv.org/pdf/1811.12463v1)|
+|2018-11-29|Counterfactual Learning from Human Proofreading Feedback for Semantic   Parsing                       |[Abstract](http://arxiv.org/abs/1811.12239v1) \| [PDF](http://arxiv.org/pdf/1811.12239v1)|
+|2018-11-27|Using Attribution to Decode Dataset Bias in Neural Network Models for   Chemistry                     |[Abstract](http://arxiv.org/abs/1811.11310v2) \| [PDF](http://arxiv.org/pdf/1811.11310v2)|
+|2018-11-26|GAN Dissection: Visualizing and Understanding Generative Adversarial   Networks                       |[Abstract](http://arxiv.org/abs/1811.10597v2) \| [PDF](http://arxiv.org/pdf/1811.10597v2)|
+|2018-11-26|Estimating Causal Effects With Partial Covariates For Clinical   Interpretability                     |[Abstract](http://arxiv.org/abs/1811.10347v1) \| [PDF](http://arxiv.org/pdf/1811.10347v1)|
+|2018-11-26|Phase-only Image Based Kernel Estimation for Single-image Blind   Deblurring                          |[Abstract](http://arxiv.org/abs/1811.10185v2) \| [PDF](http://arxiv.org/pdf/1811.10185v2)|
+
+
+
 ## 2018 / 11 / 26
 
 |   Date   |                                                                Title                                                                 |                                         Links                                          |
