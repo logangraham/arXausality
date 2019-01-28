@@ -1,3 +1,38 @@
+## 2019 / 1 / 28
+
+|   Date   |                                                          Title                                                           |                                         Links                                          |
+|----------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|2019-01-25|Bayesian surrogate learning in dynamic simulator-based regression   problems                                              |[Abstract](http://arxiv.org/abs/1901.08898v1) \| [PDF](http://arxiv.org/pdf/1901.08898v1)|
+|2019-01-24|Learning Interpretable Models with Causal Guarantees                                                                      |[Abstract](http://arxiv.org/abs/1901.08576v1) \| [PDF](http://arxiv.org/pdf/1901.08576v1)|
+|2019-01-24|Sample Complexity of Estimating the Policy Gradient for Nearly   Deterministic Dynamical Systems                          |[Abstract](http://arxiv.org/abs/1901.08562v1) \| [PDF](http://arxiv.org/pdf/1901.08562v1)|
+|2019-01-24|Causal Mediation Analysis Leveraging Multiple Types of Summary   Statistics Data                                          |[Abstract](http://arxiv.org/abs/1901.08540v1) \| [PDF](http://arxiv.org/pdf/1901.08540v1)|
+|2019-01-23|Causal Reasoning from Meta-reinforcement Learning                                                                         |[Abstract](http://arxiv.org/abs/1901.08162v1) \| [PDF](http://arxiv.org/pdf/1901.08162v1)|
+|2019-01-22|Single Deep Counterfactual Regret Minimization                                                                            |[Abstract](http://arxiv.org/abs/1901.07621v1) \| [PDF](http://arxiv.org/pdf/1901.07621v1)|
+|2019-01-22|Can Transfer Entropy Infer Causality in Neuronal Circuits for Cognitive   Processing?                                     |[Abstract](http://arxiv.org/abs/1901.07589v1) \| [PDF](http://arxiv.org/pdf/1901.07589v1)|
+|2019-01-22|Generation High resolution 3D model from natural language by Generative   Adversarial Network                             |[Abstract](http://arxiv.org/abs/1901.07165v1) \| [PDF](http://arxiv.org/pdf/1901.07165v1)|
+|2019-01-21|DLocRL: A Deep Learning Pipeline for Fine-Grained Location Recognition   and Linking in Tweets                            |[Abstract](http://arxiv.org/abs/1901.07005v2) \| [PDF](http://arxiv.org/pdf/1901.07005v2)|
+|2019-01-21|We Are Not Your Real Parents: Telling Causal from Confounded using MDL                                                    |[Abstract](http://arxiv.org/abs/1901.06950v1) \| [PDF](http://arxiv.org/pdf/1901.06950v1)|
+|2019-01-18|Theory of Minds: Understanding Behavior in Groups Through Inverse   Planning                                              |[Abstract](http://arxiv.org/abs/1901.06085v1) \| [PDF](http://arxiv.org/pdf/1901.06085v1)|
+|2019-01-15|Imitation-Regularized Offline Learning                                                                                    |[Abstract](http://arxiv.org/abs/1901.04723v1) \| [PDF](http://arxiv.org/pdf/1901.04723v1)|
+|2019-01-14|A Modern Retrospective on Probabilistic Numerics                                                                          |[Abstract](http://arxiv.org/abs/1901.04457v1) \| [PDF](http://arxiv.org/pdf/1901.04457v1)|
+|2019-01-11|Non-Parametric Inference Adaptive to Intrinsic Dimension                                                                  |[Abstract](http://arxiv.org/abs/1901.03719v1) \| [PDF](http://arxiv.org/pdf/1901.03719v1)|
+|2019-01-11|On Event Causality Detection in Tweets                                                                                    |[Abstract](http://arxiv.org/abs/1901.03526v1) \| [PDF](http://arxiv.org/pdf/1901.03526v1)|
+|2019-01-10|Variable Importance Clouds: A Way to Explore Variable Importance for the   Set of Good Models                             |[Abstract](http://arxiv.org/abs/1901.03209v1) \| [PDF](http://arxiv.org/pdf/1901.03209v1)|
+|2019-01-09|What do Language Representations Really Represent?                                                                        |[Abstract](http://arxiv.org/abs/1901.02646v1) \| [PDF](http://arxiv.org/pdf/1901.02646v1)|
+|2019-01-09|Estimating Buildings' Parameters over Time Including Prior Knowledge                                                      |[Abstract](http://arxiv.org/abs/1901.07469v1) \| [PDF](http://arxiv.org/pdf/1901.07469v1)|
+|2019-01-07|On the effect of the activation function on the distribution of hidden   nodes in a deep network                          |[Abstract](http://arxiv.org/abs/1901.02104v1) \| [PDF](http://arxiv.org/pdf/1901.02104v1)|
+|2019-01-06|Causality and Bayesian network PDEs for multiscale representations of   porous media                                      |[Abstract](http://arxiv.org/abs/1901.01604v1) \| [PDF](http://arxiv.org/pdf/1901.01604v1)|
+|2019-01-03|A Unified Theory of Early Visual Representations from Retina to Cortex   through Anatomically Constrained Deep CNNs       |[Abstract](http://arxiv.org/abs/1901.00945v1) \| [PDF](http://arxiv.org/pdf/1901.00945v1)|
+|2019-01-02|Causal Calculus in the Presence of Cycles, Latent Confounders and   Selection Bias                                        |[Abstract](http://arxiv.org/abs/1901.00433v1) \| [PDF](http://arxiv.org/pdf/1901.00433v1)|
+|2019-01-02|Efficient Search for Diverse Coherent Explanations                                                                        |[Abstract](http://arxiv.org/abs/1901.04909v1) \| [PDF](http://arxiv.org/pdf/1901.04909v1)|
+|2019-01-01|Proceedings 3rd Workshop on formal reasoning about Causation,   Responsibility, and Explanations in Science and Technology|[Abstract](http://arxiv.org/abs/1901.00073v1) \| [PDF](http://arxiv.org/pdf/1901.00073v1)|
+|2018-12-31|Predicting Aircraft Trajectories: A Deep Generative Convolutional   Recurrent Neural Networks Approach                    |[Abstract](http://arxiv.org/abs/1812.11670v1) \| [PDF](http://arxiv.org/pdf/1812.11670v1)|
+|2018-12-28|Learning to Reconstruct Shapes from Unseen Classes                                                                        |[Abstract](http://arxiv.org/abs/1812.11166v1) \| [PDF](http://arxiv.org/pdf/1812.11166v1)|
+|2018-12-27|Tied Hidden Factors in Neural Networks for End-to-End Speaker   Recognition                                               |[Abstract](http://arxiv.org/abs/1812.11946v1) \| [PDF](http://arxiv.org/pdf/1812.11946v1)|
+|2018-12-27|Double Neural Counterfactual Regret Minimization                                                                          |[Abstract](http://arxiv.org/abs/1812.10607v1) \| [PDF](http://arxiv.org/pdf/1812.10607v1)|
+
+
+
 ## 2018 / 12 / 27
 
 |   Date   |                                                Title                                                 |                                         Links                                          |
