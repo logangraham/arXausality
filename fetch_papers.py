@@ -34,6 +34,7 @@ def fetch_papers(start, max_results=10, only_recent=True):
                       'structural equation',
                       'instrumental variable',
                       'treatment effect',
+                      'confound',
                       'counterfactual',
                       'hidden variable',
                       'structure identif',
